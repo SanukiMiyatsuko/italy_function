@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://SanukiMiyatsuko.github.io/Italy_function",
+  "homepage": "https://SanukiMiyatsuko.github.io/italy_function",
   "scripts": {
     "predeploy": "yarn build",
     "deploy": "gh-pages -d dist",
